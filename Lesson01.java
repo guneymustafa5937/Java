@@ -7,6 +7,10 @@ public class Lesson01 {
 
         // version oluşturalım
         // version 2
+
+
+        // version tekrar oluşturalım
+        // version 3
         
 
     }
